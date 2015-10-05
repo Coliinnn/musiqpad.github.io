@@ -1,4 +1,4 @@
-[Musiqpad](https://musiqpad.github.io)
+[musiqpad](https://musiqpad.com)
 ==========
 
 The Musiqpad Portal
